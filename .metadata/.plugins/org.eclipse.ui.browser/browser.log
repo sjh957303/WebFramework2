@@ -1,0 +1,37 @@
+
+4월 06, 2019 05:13:45.56 NEW SESSION
+4월 06, 2019 05:13:45.56 [8500:9492:0406/051345.557:ERROR:browser_process_sub_thread.cc(209)] Waited 242 ms for network service
+4월 06, 2019 05:25:39.79 [1992:2264:0406/052539.790:ERROR:browser_process_sub_thread.cc(209)] Waited 603 ms for network service
+4월 06, 2019 05:26:56.60 [3092:224:0406/052656.601:ERROR:browser_process_sub_thread.cc(209)] Waited 224 ms for network service
+
+4월 06, 2019 13:49:04.53 NEW SESSION
+4월 06, 2019 13:49:04.53 [7844:1168:0406/134904.480:ERROR:browser_process_sub_thread.cc(209)] Waited 411 ms for network service
+4월 06, 2019 13:57:43.18 [1044:2780:0406/135743.184:ERROR:browser_process_sub_thread.cc(209)] Waited 1452 ms for network service
+4월 06, 2019 14:02:54.29 [4688:4560:0406/140254.291:ERROR:browser_process_sub_thread.cc(209)] Waited 357 ms for network service
+4월 06, 2019 14:21:46.93 [2120:8988:0406/142146.936:ERROR:browser_process_sub_thread.cc(209)] Waited 142 ms for network service
+4월 06, 2019 15:02:06.52 [912:1444:0406/150206.519:ERROR:browser_process_sub_thread.cc(209)] Waited 149 ms for network service
+4월 06, 2019 15:03:14.51 [7772:8640:0406/150314.518:ERROR:browser_process_sub_thread.cc(209)] Waited 171 ms for network service
+4월 06, 2019 15:04:44.48 [2176:8348:0406/150444.485:ERROR:browser_process_sub_thread.cc(209)] Waited 171 ms for network service
+4월 06, 2019 15:06:48.77 [6996:4504:0406/150648.769:ERROR:textfield.cc(1768)] NOT IMPLEMENTED
+4월 06, 2019 15:55:53.17 [5756:6228:0406/155553.177:ERROR:browser_process_sub_thread.cc(209)] Waited 166 ms for network service
+4월 07, 2019 13:02:24.85 [2808:3956:0407/130224.852:ERROR:browser_process_sub_thread.cc(209)] Waited 272 ms for network service
+4월 07, 2019 13:29:00.95 [6728:5716:0407/132900.954:ERROR:browser_process_sub_thread.cc(209)] Waited 315 ms for network service
+4월 07, 2019 13:30:13.99 [4904:4512:0407/133013.994:ERROR:browser_process_sub_thread.cc(209)] Waited 214 ms for network service
+4월 07, 2019 13:31:12.99 [7888:7628:0407/133112.997:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 13:31:13.01 [7888:7628:0407/133112.997:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 13:31:13.01 [7888:7628:0407/133112.997:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 13:31:13.02 [7888:7628:0407/133112.998:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 13:31:13.03 [7888:7628:0407/133112.998:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 13:31:13.03 [7888:7628:0407/133112.998:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 13:31:13.04 [7888:7628:0407/133112.999:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 13:31:13.28 [7888:7628:0407/133113.284:ERROR:browser_process_sub_thread.cc(209)] Waited 274 ms for network service
+4월 07, 2019 13:43:03.52 [9696:6008:0407/134303.527:ERROR:browser_process_sub_thread.cc(209)] Waited 276 ms for network service
+4월 07, 2019 14:18:53.89 [5024:1420:0407/141853.892:ERROR:browser_process_sub_thread.cc(209)] Waited 246 ms for network service
+4월 07, 2019 14:28:38.54 [8664:2224:0407/142838.540:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 14:28:38.55 [8664:2224:0407/142838.540:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 14:28:38.56 [8664:2224:0407/142838.540:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 14:28:38.56 [8664:2224:0407/142838.540:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 14:28:38.57 [8664:2224:0407/142838.541:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 14:28:38.57 [8664:2224:0407/142838.541:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 14:28:38.58 [8664:2224:0407/142838.541:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.86\content_browser.service.exe
+4월 07, 2019 14:28:38.70 [8664:2224:0407/142838.703:ERROR:browser_process_sub_thread.cc(209)] Waited 155 ms for network service
